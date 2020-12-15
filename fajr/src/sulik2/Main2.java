@@ -1,10 +1,11 @@
-package sulik1;
+package sulik2;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
-    int a=2;
+        int a=2;
         System.out.println("s="+a*a);
 
     }
+
 
 }

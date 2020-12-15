@@ -1,15 +1,11 @@
-package sulik2;
+package sulik;
 
-public class Main1 {
+public class Main {
     public static void main(String[] args) {
-    int a=4;
+        int a=4;
         System.out.println("p="+4*a);
 
     }
+
+
 }
-
-
-
-
-
-
