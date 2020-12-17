@@ -7,5 +7,6 @@ public class Main10 {
         System.out.println("b-a=c"+"b+a=c"+"b/a=c"+"b*a=c");
 
 
+
     }
 }
