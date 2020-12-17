@@ -7,5 +7,6 @@ public class Main8 {
         System.out.println("(a+b)/2");
 
 
+
     }
 }
