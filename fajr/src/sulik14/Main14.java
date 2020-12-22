@@ -2,10 +2,11 @@ package sulik14;
 
 public class Main14 {
     public static void main(String[] args) {
-        int R=5;
-        double p=3.14;
-        System.out.println("L="+2*p*R);
-        System.out.println("S="+p* Math.pow(R,2));
-
+    byte R=5;
+    double p=3.14;
+    double d=2*p*R;
+    double g=3.14*Math.pow(5,2);
+        System.out.println("L="+d);
+        System.out.println("S="+g);
     }
 }
