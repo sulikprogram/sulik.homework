@@ -8,10 +8,10 @@ public class Main11 {
         double w=b-a;
         double e=a*b;
         double r=b/a;
-        System.out.println("сумма a и b="+q);
-        System.out.println("разность a и b ="+w);
-        System.out.println("произведение a и b ="+e);
-        System.out.println("частное a и b ="+r);
+        System.out.println("сумма a и b="+Math.abs(q));
+        System.out.println("разность a и b ="+Math.abs(w));
+        System.out.println("произведение a и b ="+Math.abs(e));
+        System.out.println("частное a и b ="+Math.abs(r));
 
 
     }
