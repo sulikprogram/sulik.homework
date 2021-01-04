@@ -10,7 +10,7 @@ public class Main16 {
         if (a>=0){
         a++;
         }
-        System.out.println("полученное число"+a);
+        System.out.println("Вы ввели число " + a);
 
     }
 
