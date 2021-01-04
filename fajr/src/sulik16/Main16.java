@@ -1,11 +1,17 @@
 package sulik16;
 
+import java.util.Scanner;
+
 public class Main16 {
     public static void main(String[] args){
-        byte a=5;
-        byte d=1;
-        byte t=5+1;
-        System.out.println("T="+t);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Введите целое число ");
+        int a=sc.nextInt();
+        if (a>=0){
+        a++;
+        }
+        System.out.println("полученное число"+a);
+
     }
 
 }
