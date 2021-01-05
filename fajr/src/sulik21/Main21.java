@@ -13,5 +13,6 @@ public class Main21 {
             System.out.println("Большее число -  " +a2);
         if(a>a2)
             System.out.println("Большее число - " +a);
+
     }
 }
