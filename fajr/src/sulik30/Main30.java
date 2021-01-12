@@ -11,5 +11,9 @@ public class Main30 {
         double s = sc.nextDouble();
         System.out.println("Введите третию переменную ");
         double y = sc.nextDouble();
+        if(i>s) if(i>y) if(s>i) if(s>y)
+            System.out.println("первое наибольшее"+ i);
+        System.out.println("второе наибольшее"+s);
+
     }
 }
